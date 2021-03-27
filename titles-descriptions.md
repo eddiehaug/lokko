@@ -49,7 +49,7 @@ DEL ARTISTA O GRUPO E INVITADOS>
 
 ``` 
 #Reacción y análisis de #Lokko a la canción La Noche del cantautor chileno #FernandoMilagros feat. Cer Marineros
-¿Quieres poder pedir tus propias reacciones?
+¿Quieres pedir reacciones a tus canciones favoritas?
 ```
 
 En el ejemplo podemos ver los siguientes elementos en acción:
@@ -67,8 +67,7 @@ En el ejemplo podemos ver los siguientes elementos en acción:
 Usa lo siguiente para el resto de la descripción (copia y pega):
 
 ```
-Únete a la comunidad Lokko en Patreon y ten acceso a reacciones exclusivas, a la comunidad en Discord y a pedir 
-reacciones! https://patreon.com/LOKKO
+Únete a la comunidad Lokko en Patreon y ten acceso a reacciones exclusivas, a la comunidad en Discord y a pedir reacciones! https://patreon.com/LOKKO
 
 Y no olvides subscribirte y hacer click en la campanita!
 
@@ -84,14 +83,11 @@ E-MAIL: tourmusicaxfavor@gmail.com
 
 CRÉDITOS:
 
-El autor e intérprete de la cancion de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las 
-reproducciones aquí en YouTube.
+El autor e intérprete de la cancion de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las reproducciones aquí en YouTube.
 
 
 COPYRIGHT DISCLAIMER:
-Under Section 107 of the Copyright Act of 1976, allowance is made for fair use, for purposes such as criticism, 
-comment, news reporting, teaching, scholarship and research.  Fair use is a use permitted by copyright statute that 
-might otherwise be infringing.  Non-profit, educacional or personal use tips the balance in favour of fair use.
+Under Section 107 of the Copyright Act of 1976, allowance is made for fair use, for purposes such as criticism, comment, news reporting, teaching, scholarship and research.  Fair use is a use permitted by copyright statute that might otherwise be infringing.  Non-profit, educacional or personal use tips the balance in favour of fair use.
 No copyright infringement intended.
 All rights belong to their respective owners.
 
