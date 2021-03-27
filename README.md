@@ -1,2 +1,2 @@
-# lokko
-Templates for the Lokko project
+# Lokko
+Templates for the Lokko project on YouTube
