@@ -1,4 +1,4 @@
-#Títulos
+# Títulos
 
 Los títulos deben ser cortos, ojalá de menos de 145 caracteres, de modo de hacerlos amigables a la búsqueda en 
 Youtube. Títulos largos son cortados y más difíciles de leer, especialmente en smartphones.
@@ -22,7 +22,7 @@ Para los títulos sigue las siguientes reglas:
 Las palabras Lokko, Reacción y el nombre del artista también deben estar incluídas en la primera línea de la 
 descripción.
 
-#Descripciones
+# Descripciones
 
 Las descripciones se podrían dividir en dos secciones principales:
 
@@ -31,12 +31,12 @@ Las descripciones se podrían dividir en dos secciones principales:
 2. El resto del texto: lo que viene luego de las dos primeras líneas no es importante para la búsqueda, pero siempre 
    es importante seguir los principios de brevedad y precisión.
    
-##Plantilla
+## Plantilla
 
 Usa esta plantilla para las descripciones.  Reemplaza el contenido dentro de < > por la información que corresponda 
 al video.
 
-###Primeras dos líneas
+### Primeras dos líneas
 
 ```
 #Reacción y análisis de #Lokko a la canción <NOMBRE DE LA CANCION> del <GRUPO, CANTAUTOR, INTERPRETE, ETC.> <NOMBRE 
@@ -62,7 +62,7 @@ En el ejemplo podemos ver los siguientes elementos en acción:
 2. La primera línea responde la pregunta "¿Qué estoy viendo?". La segunda es un llamado a ejecutar una acción o una 
    frase que genere interés.  Todo lo que viene luego de la segunda línea queda oculto en la versión para computadores.
    
-###Resto del texto
+### Resto del texto
 
 Usa lo siguiente para el resto de la descripción (copia y pega):
 
