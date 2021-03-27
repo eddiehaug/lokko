@@ -41,7 +41,7 @@ al video.
 ```
 #Reacción y análisis de #Lokko a la canción <NOMBRE DE LA CANCION> del <GRUPO, CANTAUTOR, INTERPRETE, ETC.> <NOMBRE 
 DEL ARTISTA O GRUPO E INVITADOS>
-¿Quieres pedir reacciones?
+¿Quieres pedir reacciones a tus canciones favoritas?
 
 ```
 
