@@ -48,7 +48,7 @@ DEL ARTISTA O GRUPO E INVITADOS>
 **Ejemplo**
 
 ``` 
-#Reacción y análisis de #Lokko a la canción La Noche del cantautor chileno #FernandoMilagros feat. Cer Marineros
+#Reacción y análisis de #Lokko a la canción "La Noche" del cantautor chileno #FernandoMilagros feat. Cer Marineros
 ¿Quieres pedir reacciones a tus canciones favoritas?
 ```
 
