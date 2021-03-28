@@ -92,3 +92,11 @@ No copyright infringement intended.
 All rights belong to their respective owners.
 
 ```
+
+# Tags
+
+Los tags son importantes para facilitar la búsqueda de contenido que es frecuentemente escrito con faltas 
+ortográficas.  Para ayudar a YouTube a conectar las búsquedas con la de tu contenido, puedes usar tags.
+
+Por ejemplo, Nano Stern podría confundirse por Nano Estern, Nano Ester, etc.  Estos términos deberían incluírse en 
+los tags.  Lo mismo podría ser Música como mucica, muscica, etc., o Reacción como reaksion, reakcion, reacsion, etc.
