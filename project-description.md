@@ -105,7 +105,7 @@ ___
 
 ## CSV file format
 
-The csv file should be formatted as artist, song, like this:
+The csv file should be formatted as [artist, song], like this:
 
 |Artist         |Song         |
 |---------------|-------------|
