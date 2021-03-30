@@ -101,7 +101,16 @@ The Playlist to be updated is this one: https://open.spotify.com/playlist/0SsJQM
 
 But it should be possible to easily add more playlists if desired.
 
+___
 
+## CSV file format
+
+The csv file should be formatted as artist, song, like this:
+
+|Artist         |Song         |
+|---------------|-------------|
+|Michael Jackson|Thriller     |
+|Beyonce        |Single Ladies|
 
 
 
