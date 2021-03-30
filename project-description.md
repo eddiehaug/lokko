@@ -97,6 +97,9 @@ For this part, I have a seedbox where I could put the script, or we could add it
 or something like that.
 
 
+The Playlist to be updated is this one: https://open.spotify.com/playlist/0SsJQMbrnw4ze6jfbfFF3f?si=jl4p9zkoQ_K0mDsGTrsfuA
+
+But it should be possible to easily add more playlists if desired.
 
 
 
