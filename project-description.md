@@ -93,6 +93,9 @@ The process should look something like this:
 [A new video is created] :arrow_right: [a script listens to the notification, extracts the data, and sends it to 
 spotify or another service] :arrow_right: [The new songs are populated into the pre-defined playlists]
 
+For this part, I have a seedbox where I could put the script, or we could add it as a function on a cloud service, 
+or something like that.
+
 
 
 
