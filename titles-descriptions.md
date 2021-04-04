@@ -152,7 +152,7 @@ Línea 2: Ve aquí cómo unirte a Patreon
 
 Línea 3: Únete hoy a nuestra comunidad!
 
-![tarjetas](https://ibb.co/jGQ1g0j)
+![tarjetas](https://i.ibb.co/HYbknw9/unknown.png)
 
 
 
