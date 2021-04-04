@@ -4,7 +4,7 @@ Los títulos deben ser cortos, ojalá de menos de 145 caracteres, de modo de hac
 Youtube. Títulos largos son cortados y más difíciles de leer, especialmente en smartphones.
 
 Es importante tener en cuenta que YouTube no está diseñado como un blog, aquí se premia el ser precisos y concisos 
-en la información.  También considera que aunque es posible agregar hasta 5000 caracteres en la descripción, la gran 
+en la información.  También considera que, aunque es posible agregar hasta 5000 caracteres en la descripción, la gran 
 mayoría de la gente no va a YouTube a leer un gran texto, sino que a ver un video, por eso es importante entregar la 
 información más importante de la manera más concisa posible.
 
@@ -93,6 +93,47 @@ All rights belong to their respective owners.
 
 ```
 
+## Ejemplo para copiar y pegar
+
+### Título
+
+```
+Lokko: Reacción a <GRUPO/ARTISTA> - <CANCION>
+```
+
+### Descripción
+
+```
+#Reacción y análisis de #Lokko a la canción <NOMBRE DE LA CANCION> del <GRUPO, CANTAUTOR, INTERPRETE, ETC.> <NOMBRE 
+DEL ARTISTA O GRUPO E INVITADOS>
+¿Quieres pedir reacciones a tus canciones favoritas?
+
+Únete a la comunidad Lokko en Patreon y ten acceso a reacciones exclusivas, a la comunidad en Discord y a pedir reacciones! https://patreon.com/LOKKO
+
+Y no olvides subscribirte y hacer click en la campanita!
+
+
+DONACIONES: https://paypal.me/lookko
+
+REDES SOCIALES:
+
+INSTAGRAM: https://instagram.com/lookko
+TWITTER: https://twitter.com/lokkotwitt
+E-MAIL: tourmusicaxfavor@gmail.com
+
+
+CRÉDITOS:
+
+El autor e intérprete de la cancion de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las reproducciones aquí en YouTube.
+
+
+COPYRIGHT DISCLAIMER:
+Under Section 107 of the Copyright Act of 1976, allowance is made for fair use, for purposes such as criticism, comment, news reporting, teaching, scholarship and research.  Fair use is a use permitted by copyright statute that might otherwise be infringing.  Non-profit, educacional or personal use tips the balance in favour of fair use.
+No copyright infringement intended.
+All rights belong to their respective owners.
+
+```
+
 # Tags
 
 Los tags son importantes para facilitar la búsqueda de contenido que es frecuentemente escrito con faltas 
@@ -100,3 +141,29 @@ ortográficas.  Para ayudar a YouTube a conectar las búsquedas con la de tu con
 
 Por ejemplo, Nano Stern podría confundirse por Nano Estern, Nano Ester, etc.  Estos términos deberían incluírse en 
 los tags.  Lo mismo podría ser Música como mucica, muscica, etc., o Reacción como reaksion, reakcion, reacsion, etc.
+
+# Tarjetas:
+
+En todos los videos hay que agregar una tarjeta que incluya el video que muestra cómo usar Patreon
+
+En las líneas dos y tres agrega lo siguiente:
+
+Línea 2: Ve aquí cómo unirte a Patreon
+
+Línea 3: Únete hoy a nuestra comunidad!
+
+![tarjetas](https://ibb.co/jGQ1g0j)
+
+
+
+# Pantallas finales
+
+Si el artista ya tiene varios videos reaccionados, usa la plantilla 1x subscripción + 1x Playlist y selecciona el 
+playlist del artista.  Si no, usa 1x video + 1x subscripción.
+
+
+
+
+
+
+
