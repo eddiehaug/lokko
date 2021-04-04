@@ -71,21 +71,19 @@ Usa lo siguiente para el resto de la descripción (copia y pega):
 
 Y no olvides subscribirte y hacer click en la campanita!
 
-
-DONACIONES: https://paypal.me/lookko
-
 REDES SOCIALES:
 
 INSTAGRAM: https://instagram.com/lookko
 TWITTER: https://twitter.com/lokkotwitt
 E-MAIL: tourmusicaxfavor@gmail.com
 
+DONACIONES: https://paypal.me/lookko
+
 
 CRÉDITOS:
 
 El autor e intérprete de la canción de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las 
 reproducciones aquí en YouTube.
-
 
 COPYRIGHT DISCLAIMER:
 Under Section 107 of the Copyright Act of 1976, allowance is made for fair use, for purposes such as criticism, comment, news reporting, teaching, scholarship and research.  Fair use is a use permitted by copyright statute that might otherwise be infringing.  Non-profit, educacional or personal use tips the balance in favour of fair use.
@@ -113,21 +111,19 @@ DEL ARTISTA O GRUPO E INVITADOS>
 
 Y no olvides subscribirte y hacer click en la campanita!
 
-
-DONACIONES: https://paypal.me/lookko
-
 REDES SOCIALES:
 
 INSTAGRAM: https://instagram.com/lookko
 TWITTER: https://twitter.com/lokkotwitt
 E-MAIL: tourmusicaxfavor@gmail.com
 
+DONACIONES: https://paypal.me/lookko
+
 
 CRÉDITOS:
 
 El autor e intérprete de la canción de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las 
 reproducciones aquí en YouTube.
-
 
 COPYRIGHT DISCLAIMER:
 Under Section 107 of the Copyright Act of 1976, allowance is made for fair use, for purposes such as criticism, comment, news reporting, teaching, scholarship and research.  Fair use is a use permitted by copyright statute that might otherwise be infringing.  Non-profit, educacional or personal use tips the balance in favour of fair use.
