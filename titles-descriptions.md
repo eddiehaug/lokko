@@ -83,7 +83,8 @@ E-MAIL: tourmusicaxfavor@gmail.com
 
 CRÉDITOS:
 
-El autor e intérprete de la cancion de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las reproducciones aquí en YouTube.
+El autor e intérprete de la canción de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las 
+reproducciones aquí en YouTube.
 
 
 COPYRIGHT DISCLAIMER:
@@ -124,7 +125,8 @@ E-MAIL: tourmusicaxfavor@gmail.com
 
 CRÉDITOS:
 
-El autor e intérprete de la cancion de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las reproducciones aquí en YouTube.
+El autor e intérprete de la canción de Lokko es Homero Alonso, el cual no cobra regalías que se generen por las 
+reproducciones aquí en YouTube.
 
 
 COPYRIGHT DISCLAIMER:
