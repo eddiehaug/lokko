@@ -10,25 +10,25 @@ manually.  It's virtually impossible to automate everything because of this reas
 
 The following are the different title formats you will find:
 
-### Type 1:  {REACCION} + {ARTIST} + {HYPHEN} + {SONG TITLE} + {ADDITIONAL INFO IN PARENTHESES}
+### Type 1:  <REACCION> + <ARTIST> + <HYPHEN> + <SONG TITLE> + <ADDITIONAL INFO IN PARENTHESES>
 
 Examples:  
 
 1. REACCION RAUW ALEJANDRO - YO SABIA
    
-{REACCION} + {RAUW ALEJANDRO} + {-} + {YO SABIA}:
+<REACCION> + <RAUW ALEJANDRO> + <-> + <YO SABIA>:
    
 https://www.youtube.com/watch?v=YrW_Ld8lShc
 
 2. REACCION BHAVI - SUPER SUMO (PROD BY HALPE)
    
-{REACCION} + {BHAVI} + {-} + {SUPER SUMO} + {(PROD BY HALPE)}
+<REACCION> + <BHAVI> + <-> + <SUPER SUMO> + <(PROD BY HALPE)>
 
 https://www.youtube.com/watch?v=IAUhCDH1yYg
 
 ___
 
-### TYPE 2: {EMOTICON} + {TEXT} + {EMOTICON} + {ARTIST} + {HYPHEN} + {SONG} + {ADDITIONAL INFORMATION}
+### TYPE 2: <EMOTICON> + <TEXT> + <EMOTICON> + <ARTIST> + <HYPHEN> + <SONG> + <ADDITIONAL INFORMATION>
 
 _Note: Sometimes there's a dot after the emoticon as well_
 
@@ -38,24 +38,24 @@ Examples:
 1. :sunglasses: REACCION Y CRITICAS: TRAP :sunglasses:. Arte Elegante & Rdo feat. Chystemc - El Rap nos liberó
    
 
-   {:sunglasses:} + {REACCION Y CRITICAS: TRAP} + {:sunglasses:} + . + {Arte Elegante & Rdo feat. Chystemc} + {-} {El 
-   Rap nos liberó}: 
+   <:sunglasses:> + <REACCION Y CRITICAS: TRAP> + <:sunglasses:> + . + <Arte Elegante & Rdo feat. Chystemc> + <-> <El 
+   Rap nos liberó>: 
    
 https://www.youtube.com/watch?v=8yhHThzZ0fY
    
 2. :sunglasses: REACCION Y CRITICA MUSICAL :sunglasses: Congreso - En todas las esquinas - 1989
    
-{:sunglasses:} + {REACCION Y CRITICA MUSICAL} + {:sunglasses:} + {Congreso} + {-} + {En todas las esquinas} + {- 1989}
+<:sunglasses:> + <REACCION Y CRITICA MUSICAL> + <:sunglasses:> + <Congreso> + <-> + <En todas las esquinas> + <- 1989>
 
 https://www.youtube.com/watch?v=ecX_3FcQp0k&t=11s
 
 ___
    
-### TYPE 3: {EMOTICON} + {TEXT} + {EMOTICON} + {SONG} + {HYPHEN} + {ARTIST}
+### TYPE 3: <EMOTICON> + <TEXT> + <EMOTICON> + <SONG> + <HYPHEN> + <ARTIST>
 
 :sunglasses: REACCION Y CRITICA MUSICAL :sunglasses: Alturas - Inti Illimani
 
-{:sunglasses:} + {REACCION Y CRITICA MUSICAL} + {:sunglasses:} + {SONG} + {ARTIST}
+<:sunglasses:> + <REACCION Y CRITICA MUSICAL> + <:sunglasses:> + <SONG> + <ARTIST>
 
 _As you can see, sometimes the order of artist and song are swapped.  There are even some cases in which the name 
 of the artist is in parentheses. We're gonna have to deal with these cases afterwards when we cleanup the csv file_
@@ -67,13 +67,13 @@ https://www.youtube.com/watch?v=qYPyg4DP9L0
 ___
 
 
-### TYPE 4: {Lokko: Reaccion a} + {ARTIST} + {HYPHEN} + {SONG} + {ADDITIONAL INFORMATION IN PARENTHESES}
+### TYPE 4: <Lokko: Reaccion a> + <ARTIST> + <HYPHEN> + <SONG> + <ADDITIONAL INFORMATION IN PARENTHESES>
 
 Example:
 
 Lokko: Reacción a Los Jaivas - Los Momentos (de Eduardo Gatti)
 
-{Lokko: Reaccion a} + {Los Jaivas} + {-} + {Los Momentos} + {(de Eduardo Gatti)}
+<Lokko: Reaccion a> + <Los Jaivas> + <-> + <Los Momentos> + <(de Eduardo Gatti)>
 
 https://www.youtube.com/watch?v=nN3UG_btK_Q
 
@@ -82,7 +82,7 @@ ___
 
 ## Part 2: Automate the updating of one or more Spotify playlists
 
-From now on, all the titles will follow the format in Type 4, i.e. {Lokko: Reaccion a} + {ARTIST} + {HYPHEN} + {SONG} + {ADDITIONAL INFORMATION IN PARENTHESES}
+From now on, all the titles will follow the format in Type 4, i.e. <Lokko: Reaccion a> + <ARTIST> + <HYPHEN> + <SONG> + <ADDITIONAL INFORMATION IN PARENTHESES>
 
 The idea is that, from  now on, every time a new video matching this format is published in the channel, the artist 
 and song information are automatically extracted and used for updating one or more Spotify playlists
